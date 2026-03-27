@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+
+# Poetry
+poetry.lock
+
+# Testing
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+.coveragerc
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Project-specific
+.nwave/
+.claude/
+output/
